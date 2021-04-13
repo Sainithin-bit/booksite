@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.main{
+
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 70px;
+	
+
+}
+.card{
+    background-color: gray;
+    padding:10px;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+h2{
+    color: honeydew;
+
+}
+img{
+    width: 220px;
+    height: 400px;
+}
